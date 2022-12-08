@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "492629261404",
+    "project_id": "ohs-app-3d72e",
+    "storage_bucket": "ohs-app-3d72e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492629261404:android:f6f01a9f657a5b5a9cfa99",
+        "android_client_info": {
+          "package_name": "app.naphat.tsu.io.ohsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492629261404-stdf93v3pn59q9e51vdsgu02l47gg4jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhNI7jffiBbt6s8eyKRahLHwAkFiDxuOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492629261404-stdf93v3pn59q9e51vdsgu02l47gg4jh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492629261404-gcuvlttch8f5cva114rb8llds37sbfbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.naphat.tsu.io.ohsapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492629261404:android:3e722bc14a89e21b9cfa99",
+        "android_client_info": {
+          "package_name": "csit.tsu.naphat.app.ohsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492629261404-stdf93v3pn59q9e51vdsgu02l47gg4jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhNI7jffiBbt6s8eyKRahLHwAkFiDxuOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492629261404-stdf93v3pn59q9e51vdsgu02l47gg4jh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492629261404-gcuvlttch8f5cva114rb8llds37sbfbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.naphat.tsu.io.ohsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
